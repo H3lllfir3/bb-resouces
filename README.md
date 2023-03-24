@@ -6,7 +6,7 @@ Some resources for learning and updating your methodology.
 
 | Link  | Tags |
 | :------------- | ------------- |
-| https://ysamm.com/?p=763 | `XSS` `OAuth` |
+| https://ysamm.com/?p=763 | `XSS` `OAuth` `r` |
 | https://ahmdhalabi.medium.com/pii-disclosure-of-apple-users-10k-d1e3d29bae36 | `PII` `IDOR` `r` |
 | https://blog.shiftleft.io/angular-react-vulnerability-cheatsheet-a3b36f22a0fd | `Recon` `React` |
 | https://infosecwriteups.com/i-have-1-chance-to-hack-this-company-1044879f41a9 | `SSRF` |
