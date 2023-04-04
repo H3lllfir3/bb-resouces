@@ -11,7 +11,7 @@ Some resources for learning and updating your methodology.
 | https://blog.shiftleft.io/angular-react-vulnerability-cheatsheet-a3b36f22a0fd | `Recon` `React` `r` |
 | https://infosecwriteups.com/i-have-1-chance-to-hack-this-company-1044879f41a9 | `SSRF` `r`|
 | https://samcurry.net/hacking-starbucks/ | `Proxy` `Path Traversal` |
-| https://whitton.io/articles/uber-turning-self-xss-into-good-xss/ | `XSS` |
+| https://whitton.io/articles/uber-turning-self-xss-into-good-xss/ | `XSS` | `r`
 | https://www.youtube.com/watch?v=HnI0w156rtw | `Click Jacking` |
 | https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-1-dd08ed34b5a8 | `Recon` |
 | https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-2-f82164917e7 | `Recon` |
